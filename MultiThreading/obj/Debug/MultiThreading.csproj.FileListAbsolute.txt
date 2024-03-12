@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\User\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\User\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.Form1.resources
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.Properties.Resources.resources
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\User\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.pdb
